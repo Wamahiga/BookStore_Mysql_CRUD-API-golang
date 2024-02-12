@@ -1,0 +1,35 @@
+# Compiled binary files
+*.exe
+*.o
+*.out
+
+# Dependency directories
+/vendor/
+/go.sum
+
+# Compiled Go code
+*.test
+*.prof
+
+# Debugging information
+.vscode/
+.idea/
+*.iml
+
+# Output of the go coverage tool
+*.cover
+
+# Local configuration file
+/config.yaml
+
+# Environment variables file
+.env
+
+# Log files
+*.log
+
+# Compiled files for tests
+/testbin/
+
+# Binary release files
+/release/
